@@ -1,0 +1,34 @@
+FIAPON-1TDS0A-2024-RM 555253
+AtividadeCap 5
+VisãodoSistema-Fintech:"MachDosMilhões"
+Para casaisquedesejamterumcontrolefinanceiroemconjunto,
+compartilhandocommaiseficiênciaesimplificado.
+
+Queestão insatisfeitoscomaplicativosfinanceirosgenéricosquenão
+atendemàsnecessidadesespecíficasdecasais,exigindocontas
+separadaseprocessoscomplicadosdegestãofinanceira.
+
+Nossoproduto ,"MachDosMilhões",éumaplicativoFintech,gestão
+financeiracompartilhadaentrecasais,
+
+Quefornece umaplataformaintuitivaecolaborativaparagerenciar
+finançasconjuntas,permitindoomonitoramentodedespesas,
+estabelecimentodemetasfinanceirasecomunicaçãotransparente
+sobredinheiro.
+
+Aocontrário deaplicativosfinanceirosconvencionais,nossoprodutoé
+especialmenteprojetadoparaatenderàsnecessidadesúnicasde
+casais,oferecendorecursosespecíficosparafacilitaragestão
+financeiracompartilhada,promovendoaharmoniaeosucesso
+financeirodorelacionamento.
+
+Tutor;
+FernandoKondostanos
+
+ProductOwner,DEV;
+RubensLuterodaSilva
+RM 555253
+1TDS0A-
+rubens.lutero@gmail.com
+
+https://www.linkedin.com/in/rubens-lutero/
